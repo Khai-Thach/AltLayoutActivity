@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FancyScreen</string>
 
@@ -14,11 +15,9 @@
     <string name="report_5">Daniel Cho</string>
     <string name="report_6">Jorge Gomez</string>
 
-
-
-    <string name="form_department">Department</string>
-    <string name="form_direct_reports">Direct Reports</string>
+    <string name="form_department">Département</string>
+    <string name="form_direct_reports">Subordonnés directs</string>
     <string name="form_email">Email</string>
-    <string name="form_extension">Extension</string>
-    <string name="form_supervisor">Supervisor</string>
+    <string name="form_extension">Poste</string>
+    <string name="form_supervisor">Superviseur</string>
 </resources>
